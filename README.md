@@ -6,8 +6,8 @@ The dataset from here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 
 # File contents
 
-The 'CodeBook.md' file describes the variables and all the transformations.
+The `CodeBook.md` file describes the variables and all the transformations.
 
-The 'run_analysis.R' file contains the R code.
+The `run_analysis.R` file contains the R code.
 
-The 'tidy_data.txt' file is the output of the R code.
+The `tidy_data.txt` file is the output of the R code.
