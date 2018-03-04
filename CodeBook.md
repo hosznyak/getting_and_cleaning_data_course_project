@@ -11,4 +11,7 @@ The `run_analysis.R` contains 6 steps:
 
 # Data and variables
 
-* Data from the source files: subject_train_set, values_train_set, activity_train_set, subject_test_set, values_train_set, activity_train_set
+* Data from the source files: `subject_train_set`, `values_train_set`, `activity_train_set`, `subject_test_set`, `values_train_set`, `activity_train_set`, `activities`
+* Labels from the source files: `features`
+* Merged data set: `merge_train` with `cbind`, `merge_test` with `cbind`, `merge_data` with `rbind`
+* Calculated output data set: `merge_data_mean`
